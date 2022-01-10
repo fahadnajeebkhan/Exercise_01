@@ -1,2 +1,0 @@
-This is just git practicing as git101
-testing git 
